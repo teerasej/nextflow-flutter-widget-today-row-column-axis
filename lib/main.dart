@@ -38,10 +38,10 @@ class _MyHomePageState extends State<MyHomePage> {
         body: Container(
             padding: EdgeInsets.all(20),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.end,
+              
               children: <Widget>[
                 Column(
-                  crossAxisAlignment: CrossAxisAlignment.end,
+                  
                   children: <Widget>[
                     Text(
                       '10:09',
