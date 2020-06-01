@@ -1,6 +1,6 @@
 # nextflow_row_column_axis
 
-โปรเจค Flutte สำหรับฝึกฝนเรียนรู้การใช้งาน Widget กับโค้ชพลนะครับ ในรอบนี้มาดูเคล็ดลับที่โค้ดพลใช้ในการเลือกจัด Layout ในการใช้งาน `Row` widget และ `Column` widget ระหว่าง `MainAxisAlignment:` และ `CrossAxisAlignment:`
+โปรเจค Flutter สำหรับฝึกฝนเรียนรู้การใช้งาน Widget กับโค้ชพลนะครับ ในรอบนี้มาดูเคล็ดลับที่โค้ดพลใช้ในการเลือกจัด Layout ในการใช้งาน `Row` widget และ `Column` widget ระหว่าง `MainAxisAlignment:` และ `CrossAxisAlignment:`
 
 ## ดูคลิปทำตามได้ที่นี่เลย 
 
