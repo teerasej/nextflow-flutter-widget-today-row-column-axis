@@ -1,4 +1,4 @@
-# nextflow_row_column_axis
+# Flutter 3 นาทีกับโค้ชพล: มารู้เคล็ดลับของ Row กับ Column กัน
 
 โปรเจค Flutter สำหรับฝึกฝนเรียนรู้การใช้งาน Widget กับโค้ชพลนะครับ ในรอบนี้มาดูเคล็ดลับที่โค้ดพลใช้ในการเลือกจัด Layout ในการใช้งาน `Row` widget และ `Column` widget ระหว่าง `MainAxisAlignment:` และ `CrossAxisAlignment:`
 
