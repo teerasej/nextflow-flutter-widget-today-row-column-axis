@@ -1,16 +1,15 @@
 # nextflow_row_column_axis
 
-A new Flutter project.
+โปรเจค Flutte สำหรับฝึกฝนเรียนรู้การใช้งาน Widget กับโค้ชพลนะครับ ในรอบนี้มาดูเคล็ดลับที่โค้ดพลใช้ในการเลือกจัด Layout ในการใช้งาน `Row` widget และ `Column` widget ระหว่าง `MainAxisAlignment:` และ `CrossAxisAlignment:`
 
-## Getting Started
+## ดูคลิปทำตามได้ที่นี่เลย 
 
-This project is a starting point for a Flutter application.
+สามารถกด subscribe ติดตามคลิปเรื่อง Flutter และคลิปใหม่ๆ ได้ผ่านช่อง Youtube ของโค้ชพลนะครับ 
 
-A few resources to get you started if this is your first Flutter project:
+https://youtu.be/nkNbgU6z_hU
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## เริ่มต้นเรียนรู้สร้างแอพ iOS และ Android ด้วย Google Flutter 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ออกแบบให้เข้าใจง่าย ฝึกทำและเรียนรู้จากแอพจริง ดูรายละเอียดและซื้อได้ที่ลิ้งค์ด้านล่างเลยครับ 
+
+https://nextflow.in.th/google-flutter-online/
